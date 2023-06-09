@@ -3,6 +3,7 @@
 ## 开发环境与工具
 采用C++语言，图形界面交互。由于EasyX图形库的要求，采用Visual Studio作为IDE进行开发。
 开发环境如下图：
+
 ![Platform](https://github.com/NEU20205988John/DS_CourseDesign_A/assets/80146486/3e828831-87d9-4469-a731-bbe52fdc1043)
 
 ## 用户界面设计
